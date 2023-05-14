@@ -1,0 +1,39 @@
+{
+  "name": "@killer-rp/beautify-console-log",
+  "version": "1.0.0",
+  "description": "This package is useful for beautifying console logs",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillerRP/beautify-console-log.git"
+  },
+  "keywords": [
+    "console",
+    "logger",
+    "colorify",
+    "beautify",
+    "killer",
+    "killerrp",
+    "killer-rp"
+  ],
+  "author": "KillerRP",
+  "license": "ISC",
+  "types": "./lib/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/KillerRP/beautify-console-log/issues"
+  },
+  "homepage": "https://github.com/KillerRP/beautify-console-log#readme",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

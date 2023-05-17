@@ -2,6 +2,8 @@
 
 This package is useful for beautifying your console logs.
 
+**Note:** This package is only takes strings as an argument or if you log array or object or anyhting other than string it will behave differently.
+
 ## Table of Contents
 
 - [Installation](#installation)

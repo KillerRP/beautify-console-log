@@ -1,6 +1,6 @@
 {
   "name": "@killer-rp/beautify-console-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is useful for beautifying console logs",
   "main": "lib/index.js",
   "directories": {
